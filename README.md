@@ -25,14 +25,14 @@
 
 - Building toward Applied AI Engineer and Full-Stack AI Engineer roles
 - Developing AI-powered products with TypeScript, Next.js, Python, and modern AI tooling
-- Exploring RAG, AI agents, workflow automation, and production-ready AI systems
+- Learning to design reliable AI agents and production-ready agent workflows
 - Co-founding and developing [Venn Recruitment](https://venn-recruitment.vercel.app)
 
 My selected projects are highlighted in the pinned repositories below.
 
 ## Technologies
 
-**Languages:** TypeScript, JavaScript, SQL
+**Languages:** TypeScript, JavaScript, Python, SQL
 
 **Frontend:** Next.js, React, Tailwind CSS, GSAP, Motion
 
