@@ -21,39 +21,14 @@
 - Interested in **AI integrations, Retrieval-Augmented Generation (RAG), and workflow automation**.
 - Based in **Sousse, Tunisia**.
 
-## Selected Work
+## Current Focus
 
-### [Venn Recruitment](https://venn-recruitment.vercel.app)
+- Building toward Applied AI Engineer and Full-Stack AI Engineer roles
+- Developing AI-powered products with TypeScript, Next.js, Python, and modern AI tooling
+- Exploring RAG, AI agents, workflow automation, and production-ready AI systems
+- Co-founding and developing [Venn Recruitment](https://venn-recruitment.vercel.app)
 
-Recruitment agency website with dedicated candidate and employer journeys, application forms, and a responsive user experience.
-
-[Live Website](https://venn-recruitment.vercel.app) · [Repository](https://github.com/Aymen-BSL/Venn-Recruitment)
-
-### [Mimic](https://mimic-azure.vercel.app)
-
-A high-fidelity, responsive website implemented from studio-provided branding and UI direction.
-
-[Live Website](https://mimic-azure.vercel.app) · [Repository](https://github.com/Aymen-BSL/mimic)
-
-### [Personal Portfolio](https://aymens-portfolio.vercel.app)
-
-An interactive portfolio built with Next.js, TypeScript, Sanity, GSAP, Motion, and Three.js.
-
-[Live Website](https://aymens-portfolio.vercel.app) · [Repository](https://github.com/Aymen-BSL/portfolio)
-
-### Hotel Management Dashboard
-
-A course capstone project for managing hotel operations, including cabins, bookings, guests, authentication, and dashboard analytics.
-
-[Repository](https://github.com/Aymen-BSL/the-wild-oasis) · [Reference Demo](https://the-wild-oasis.vercel.app)
-
-### Hotel Booking Web App
-
-A separate course capstone project for browsing cabins, creating accounts, making reservations, and managing bookings.
-
-[Repository](https://github.com/Aymen-BSL/the-wild-oasis.4.customers) · [Reference Demo](https://the-wild-oasis-website.vercel.app)
-
-> The two reference demos above are hosted by the course instructor. The linked repositories contain my implementations.
+My selected projects are highlighted in the pinned repositories below.
 
 ## Technologies
 
