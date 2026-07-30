@@ -11,6 +11,8 @@
   <a href="mailto:aymenbensalem.3lsi@gmail.com">Email</a>
   ·
   <a href="https://github.com/Aymen-BSL">GitHub</a>
+  ·
+  <a href="linkedin.com/in/aymen-ben-salem-dev">LinkedIn</a>
 </p>
 
 ## About Me
