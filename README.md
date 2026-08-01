@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Aymen Ben Salem 👋</h1>
 
 <p align="center">
-  Software Engineer building modern web applications, AI-powered products, and polished digital experiences.
+  Software Engineer building modern web applications, AI-powered features, and polished digital experiences.
 </p>
 
 <p align="center">
@@ -17,18 +17,19 @@
 
 ## About Me
 
-* Research Master's student in **Intelligent Pervasive Systems**, expected to graduate in **July 2027**.
-* Co-Founder and Software Engineer at **Venn Recruitment**, leading digital-product development, technical infrastructure, internal workflows, and automation while contributing to service definition and company operations.
-* Experienced in building full-stack applications with **Next.js, React, TypeScript, PostgreSQL, Supabase, and Prisma**.
-* Build AI-powered features using **Gemini, the Google AI SDK, Retrieval-Augmented Generation, and structured application data**.
-* Based in **Sousse, Tunisia**.
+- Research Master's student in **Intelligent Pervasive Systems**, expected to graduate in **July 2027**.
+- Co-Founder and Software Engineer at **Venn Recruitment**, contributing to digital-product development, technical infrastructure, internal workflows, automation, service definition, and company operations.
+- Experienced in building full-stack applications with **Next.js, React, TypeScript, PostgreSQL, Supabase, and Prisma**.
+- Interested in **AI integrations, Retrieval-Augmented Generation (RAG), applied AI, agentic AI, and workflow automation**.
+- Based in **Sousse, Tunisia**.
 
 ## Current Focus
 
-* Building full-stack and AI-powered products with TypeScript, Next.js, Python, and modern AI tooling
-* Designing reliable RAG pipelines, AI assistants, and production-oriented agent workflows
-* Developing recruitment technology, internal systems, and operational automations at [Venn Recruitment](https://venn-recruitment.vercel.app)
-* Improving software quality through UI, form, integration, and database testing
+- Learning more about **applied AI, agentic AI, and AI engineering**
+- Building AI-powered features with **TypeScript, Next.js, Python, Gemini, and modern AI tooling**
+- Expanding my experience with **RAG systems, AI agents, and production-ready agent workflows**
+- Co-founding and developing [Venn Recruitment](https://venn-recruitment.vercel.app)
+
 
 My selected projects are highlighted in the pinned repositories below.
 
@@ -46,6 +47,6 @@ My selected projects are highlighted in the pinned repositories below.
 
 ## Contact
 
-* **Portfolio:** [aymens-portfolio.vercel.app](https://aymens-portfolio.vercel.app)
-* **LinkedIn:** [linkedin.com/in/aymen-ben-salem-dev](https://linkedin.com/in/aymen-ben-salem-dev)
-* **Email:** [aymenbensalem.3lsi@gmail.com](mailto:aymenbensalem.3lsi@gmail.com)
+- **Portfolio:** [aymens-portfolio.vercel.app](https://aymens-portfolio.vercel.app)
+- **LinkedIn:** [linkedin.com/in/aymen-ben-salem-dev](https://linkedin.com/in/aymen-ben-salem-dev)
+- **Email:** [aymenbensalem.3lsi@gmail.com](mailto:aymenbensalem.3lsi@gmail.com)
