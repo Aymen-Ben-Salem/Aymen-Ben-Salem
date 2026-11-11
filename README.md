@@ -10,7 +10,7 @@
   ·
   <a href="mailto:aymenbensalem.3lsi@gmail.com">Email</a>
   ·
-  <a href="https://github.com/Aymen-BSL">GitHub</a>
+  <a href="https://github.com/Aymen-Ben-Salem">GitHub</a>
   ·
   <a href="https://linkedin.com/in/aymen-ben-salem-dev">LinkedIn</a>
 </p>
